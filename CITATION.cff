@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it using the format below."
+title: "3-30-300 Rule Visibility Optimization Model"
+authors:
+  - family-names: "Martínez Otálora"
+    given-names: "Jose David"
+  - family-names: "Shen"
+    given-names: "Jie"
+  - family-names: "Rojas Celis"
+    given-names: "Anyela Piedad"
+
+version: "1.0.0"
+date-released: "2025-01-01"
+repository-code: "https://github.com/jdmotalora/3-30-300-rule-3-visibility-optimization"
+doi: "https://doi.org/10.5281/zenodo.17505728"
+license: "MIT"
